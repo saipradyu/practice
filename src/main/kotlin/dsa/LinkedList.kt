@@ -1,0 +1,4 @@
+package dsa
+
+class LinkedList {
+}
